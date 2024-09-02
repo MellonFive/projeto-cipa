@@ -1,5 +1,8 @@
 body {
     background-color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
 }
 
 main {
@@ -7,9 +10,18 @@ main {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
+    background-color: #000;
 }
 
 .cipa {
+    text-align: center;
+    background-color: #FFF;
     max-width: 700px;
-    border: 1px solid red;
+    border: 5px solid green;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.cipa .titulo {
+    font-weight: 800;
 }
