@@ -2,6 +2,7 @@ body {
     background-color: #FFF;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 800;
+    font-size: 1.7rem;
     text-transform: uppercase;
 }
 
@@ -13,15 +14,44 @@ main {
     background-color: #000;
 }
 
+main .container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    background-color: #FFF;
+    border-radius: 15px;
+    border: 5px solid green;
+    padding: 15px 20px;
+}
+
 .cipa {
     text-align: center;
     background-color: #FFF;
-    max-width: 700px;
-    border: 5px solid green;
-    border-radius: 15px;
-    padding: 15px;
+}
+
+.cipa .item {
+    margin-bottom: 10px;
+}
+
+.cipa .item.-last {
+    margin-bottom: 0;
+}
+
+/* .div-input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+input {
+    color: red;
+    font-size: 20px;
 }
 
 .cipa .titulo {
     font-weight: 800;
+}
+
+main .imagem-logo {
+    width: 300px;
 }
