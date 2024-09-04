@@ -25,21 +25,21 @@ main .container {
     padding: 15px 20px;
 }
 
-.cipa .item {
+.container .cipa .item {
     margin-bottom: 10px;
 }
 
-.cipa .item.-last {
+.container .cipa .item.-last {
     margin-bottom: 0;
 }
 
-.cipa .item .numero {
+.container .cipa .item .numero {
     width: 100px;
     font-weight: 800;
     text-align: right;
 }
 
-.cipa .cor-verde {
+.container .cipa .cor-verde {
     color: green;
 }
 
