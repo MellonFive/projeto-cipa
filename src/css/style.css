@@ -22,7 +22,7 @@ main .container {
     background-color: #FFF;
     border-radius: 15px;
     border: 5px solid green;
-    padding: 15px 20px;
+    padding: 20px;
 }
 
 .container .cipa .item {
