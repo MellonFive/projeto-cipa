@@ -39,6 +39,10 @@ main .container {
     text-align: right;
 }
 
+.cipa .cor-verde {
+    color: green;
+}
+
 main .imagem-logo {
     width: 300px;
 }
