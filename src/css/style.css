@@ -37,6 +37,7 @@ main .container {
     width: 100px;
     font-weight: 800;
     text-align: right;
+    color: red;
 }
 
 .container .cipa .cor-verde {
