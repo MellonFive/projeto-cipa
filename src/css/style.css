@@ -43,6 +43,6 @@ main .container {
     color: green;
 }
 
-main .imagem-logo {
-    width: 300px;
+.container .div-logo .imagem-logo {
+    width: 270px;
 }
