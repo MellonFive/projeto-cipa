@@ -1,7 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 800;
-    font-size: 4rem;
+    font-size: 3.5rem;
     text-align: center;
     text-transform: uppercase;
 }
@@ -17,15 +17,15 @@ main {
 main .container {
     display: flex;
     align-items: center;
-    gap: 15px;
+    gap: 1.5rem;
     background-color: #FFF;
-    border-radius: 15px;
-    border: 5px solid green;
-    padding: 20px;
+    border-radius: 1.5rem;
+    border: .5rem solid green;
+    padding: 2rem;
 }
 
 .container .cipa .item {
-    margin-bottom: 10px;
+    margin-bottom: 1rem;
 }
 
 .container .cipa .item.-last {
@@ -45,5 +45,5 @@ main .container {
 }
 
 .container .div-logo .imagem-logo {
-    width: 30rem;
+    width: 40rem;
 }
