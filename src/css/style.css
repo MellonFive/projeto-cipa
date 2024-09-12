@@ -21,7 +21,7 @@ main .container {
     background-color: #FFF;
     border-radius: 1.5rem;
     border: .5rem solid green;
-    padding: 2rem;
+    padding: 2rem 3rem;
 }
 
 .container .cipa .item {
