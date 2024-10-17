@@ -1,5 +1,5 @@
 //Aqui estou definindo a data de início do contador
-const dataDeInicio = new Date(2024, 8, 4); // Exemplo: 4º de Setembro de 2023
+const dataDeInicio = new Date(2024, 8, 4); // Exemplo: 4º de Setembro de 2024
 
 // Função para calcular a diferença em dias entre a data de início e a data atual
 function calcularDias() {
