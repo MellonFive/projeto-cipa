@@ -33,7 +33,7 @@ main .container {
 }
 
 .container .cipa .item input[type=number] {
-    width: 7.5rem;
+    width: 15rem;
     font-size: 4.5rem;
     font-weight: 800;
     text-align: right;
@@ -43,11 +43,15 @@ main .container {
 
 .container .cipa .item .number-record {
     color: red;
+    width: 13rem;
     font-size: 4.5rem;
+    display: inline-block;
 }
 
 .container .cipa .cor-verde {
     color: green;
+    margin-top: 3rem;
+    font-size: 4.5rem;
 }
 
 .container .div-logo .imagem-logo {
