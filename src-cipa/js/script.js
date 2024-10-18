@@ -1,5 +1,5 @@
 // Aqui estou definindo a data de início do contador
-const dataDeInicio = new Date(2024,10,17); // Data do acidente -> (Ano,Mês,Dia) - Consertar erro com defasagem da data. 
+const dataDeInicio = new Date('2024-10-19'); // Data do acidente -> (Ano,Mês,Dia) - Consertar erro com defasagem da data. 
 
 // Função para calcular a diferença em dias entre a data de início e a data atual
 function calcularDias() {

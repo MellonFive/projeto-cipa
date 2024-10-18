@@ -20,8 +20,8 @@ main .container {
     gap: 1.5rem;
     background-color: #FFF;
     border-radius: 1.5rem;
-    border: .5rem solid green;
-    padding: 2rem 3rem;
+    border: 1.5rem solid green;
+    padding: 2rem;
 }
 
 .container .cipa .item {
